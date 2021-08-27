@@ -5,9 +5,9 @@ New User README
 Github no longer permits password access withouth 2FA to access all resources
 most importantly the ability to push/pull from the remote. 
 You can either:
-	- setup 2FA with your github account
-	- use personal access tokens
-	- use SSH keys -- Recommended 
+- setup 2FA with your github account
+- use personal access tokens
+- use SSH keys -- Recommended 
 
 [Github SSH Key Instructions](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)
 
