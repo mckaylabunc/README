@@ -12,8 +12,8 @@ You can either:
 [Github SSH Key Instructions](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)
 
 ### OSX
-- Check if you have existing SSH keys
-1. Open Terminal and enter `ls -al ~/.ssh`
+1. Check if you have existing SSH keys
+	- Open Terminal and enter `ls -al ~/.ssh`
 	- you're looking for `id_rsa.pub` -- a public SSH key
 	- if yes, there should be matching `id_rsa` file -- the private SSH key of the pair
 		* never share a private key!	
